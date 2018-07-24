@@ -19,8 +19,7 @@ https://raw.githubusercontent.com/ramim1/OursRepo/master/repository/addons.xml.m
 </checksum>
  
 <datadir zip="true">
- 
-https://raw.githubusercontent.com/ramim1/OursRepo/master/repository/zips
+ https://github.com/ramim1/OursRepo/tree/master/repository/zips
 </datadir>
  
 </extension> 
